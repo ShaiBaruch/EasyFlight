@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EasyFlight</string>
+    <string name="user_name">User name</string>
+    <string name="easy_flight">Easy Flight</string>
+    <string name="please_login">Please Login</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="or">Or</string>
+    <string name="hello_user">Hello User</string>
+    <string name="find_a_flight">Find a Flight</string>
+    <string name="my_booked_flights">My Booked Flights</string>
+    <string name="admin">admin</string>
+    <string name="please_enter_username_and_password">Please enter username and password</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ReEnterPassword">ReEnter Password</string>
+    <string name="enter_flight_id">Enter Flight ID</string>
+    <string name="enter_flight_origin">Enter Flight Origin</string>
+    <string name="enter_flight_destination">Enter Flight Destination</string>
+    <string name="enter_flght_capacity">Enter Flght Capacity</string>
+    <string name="enter_flight_date">Enter Flight Date</string>
+    <string name="enter_flight_price">Enter Flight Price</string>
+    <string name="add_flight">Add Flight</string>
+    <string name="remove_flight">Remove Flight</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="add_remove_flights">Add/Remove Flights</string>
+    <string name="admin_view">Admin View</string>
+    <string name="cancel_flight">Cancel Flight</string>
+    <string name="select_flight_by_id">Select Flight by ID</string>
+</resources>
